@@ -1,35 +1,26 @@
 {
-
-    "results": [
-    {
-        "name": "Luke Skywalker",
-        
+    "count": 82,
+    "next": "https://swapi.dev/api/people/?page=2",
+    "previous": null,
+    "results": [{
+        "name": "Luke Skywalker"
     }, {
-        "name": "C-3PO",
-        
+        "name": "C-3PO"
     }, {
-        "name": "R2-D2",
-        
+        "name": "R2-D2"
     }, {
-        "name": "Darth Vader",
-        
+        "name": "Darth Vader"
     }, {
-        "name": "Leia Organa",
-        
+        "name": "Leia Organa"
     }, {
-        "name": "Owen Lars",
-        
+        "name": "Owen Lars"
     }, {
-        "name": "Beru Whitesun lars",
-       
+        "name": "Beru Whitesun lars"
     }, {
-        "name": "R5-D4",
-       
+        "name": "R5-D4"
     }, {
-        "name": "Biggs Darklighter",
-       
+        "name": "Biggs Darklighter"
     }, {
-        "name": "Obi-Wan Kenobi",
-       
+        "name": "Obi-Wan Kenobi"
     }]
 }
